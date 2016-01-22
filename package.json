@@ -1,0 +1,25 @@
+{
+  "name": "graphs-1",
+  "version": "1.0.0",
+  "description": "A set of javascript tests designed to get you to implement graphs.",
+  "main": "graph.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasunPK/graphs-1.git"
+  },
+  "author": "Prasun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasunPK/graphs-1/issues"
+  },
+  "homepage": "https://github.com/PrasunPK/graphs-1#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
